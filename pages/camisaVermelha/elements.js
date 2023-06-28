@@ -1,0 +1,20 @@
+export const ELEMENTS = {
+    idCamisaVermelha: '[id=item_3_title_link]',
+    nomeCamisaVermelha: 'Test.allTheThings() T-Shirt (Red)',
+    buttonAddCamisaVermelha: '[data-test="add-to-cart-test.allthethings()-t-shirt-(red)"]',
+    iconeCarrinho: '.shopping_cart_link',
+    divTag: '.div',
+    qtdItensCarrinho: 'class=cart_quantity',
+    checkOutButton: '[id=checkout]',
+    primeiroNome: '[id=first-name]',
+    ultimoNome: '[id=last-name]',
+    cep: '[id=postal-code]',
+    continuarButton: '[id=continue]',
+    finalizarButton: '[id=finish]',
+    voltarButton: '[id=back-to-products]',
+    h3Tag: 'h3',
+    msgErroPrimeiroNome: 'Error: First Name is required',
+    msgErroUltimoNome: 'Error: Last Name is required',
+    msgErroCep: 'Error: Postal Code is required',
+     
+} 
